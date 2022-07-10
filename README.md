@@ -7,7 +7,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 -[Screenshot](#screenshot)
 -[Links](#links)
 -[Built with](#built-with)
--[What I learned](#what-i-learned)
 -[Author](#author)
 
 ### Screenshot
@@ -18,7 +17,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 - Solution URL : https://github.com/builtbymort/statsPreviewCardComponent
-- Live Site URL : https://builtbymort-starsPreaviewCardComponent.pages.dev/
+- Live Site URL : https://statspreviewcardcomponent.pages.dev/
 
 ### Built with
 - Semantic HTML5 markup
